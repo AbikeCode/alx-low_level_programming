@@ -2,8 +2,9 @@
 
 /**
  * main - Prints _putchar and a new line
- * Return: Always 0
+ * Return: 0
  */
+
 int main(void)
 {
 	_putchar('_');
