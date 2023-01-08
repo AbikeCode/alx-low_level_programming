@@ -1,1 +1,1 @@
-0x09 static libraries
+task on 0x09 static libraries
